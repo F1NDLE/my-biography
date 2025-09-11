@@ -1,13 +1,11 @@
 # my-biography
-Telegram Channel: https://t.me/F1NDLE_cn
+[Telegram Channel](https://t.me/F1NDLE_cn)
 
-Squad : PHOENIX
+[4PDA](https://4pda.to/forum/index.php?showuser=11974470)
 
-🧑‍💻Github: github.com/F1NDLE
 
-4PDA >> https://4pda.to/forum/index.php?showuser=11974470.
 
-Devices: 
+# Devices: 
 📱RN12S (rooted)
 📱Pixel 7 Pro(rooted ksu), 
 Infinix hot 30i (flashlify device), 
@@ -15,13 +13,18 @@ Infinix hot 30i (flashlify device),
 📱POCO X4 GT (Test device rooted with custom rom)
 
 
-y.o 14.
+# Age
+14
 
-I am engaged: Scripts, magisk(ksu modules), customs
+# I am engaged
+Scripts, magisk(ksu modules), customs
 
-GSI - evo x
+# GSI
+EVOLUTION X
 
-Game - Call Of Duty, Peacekeeper Elite(China), Brawl Stars, Arena Breakout, Delta Force, Valorant Mobile & pc version, csgo
+# GAME LIST
+Call Of Duty, Peacekeeper Elite(China), Brawl Stars, Arena Breakout, Delta Force, Valorant Mobile & pc version, csgo
 
-🐧Operation Systems - phone (crdroid), pc - linux (arch & ubuntu) & sometimes windows
+# 🐧Operation Systems - 
+phone (crdroid), pc - linux (arch & ubuntu) & sometimes windows
 
