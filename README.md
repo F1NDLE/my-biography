@@ -16,7 +16,7 @@ Infinix hot 30i (flashlify device),
 # Age
 14
 
-# I am engaged
+# I am interested in 
 Scripts, magisk(ksu modules), customs
 
 # GSI
