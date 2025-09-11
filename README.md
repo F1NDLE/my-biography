@@ -23,7 +23,7 @@ Scripts, magisk(ksu modules), customs
 EVOLUTION X
 
 # GAME LIST
-Call Of Duty, Peacekeeper Elite(China), Brawl Stars, Arena Breakout, Delta Force, Valorant Mobile & pc version, csgo
+Call Of Duty, Peacekeeper Elite(China), Brawl Stars, Arena Breakout, Delta Force, Valorant Mobile & pc version, cs2
 
 # 🐧Operation Systems - 
 phone (crdroid), pc - linux (arch & ubuntu) & sometimes windows
