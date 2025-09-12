@@ -1,7 +1,7 @@
 # my-biography
 [Telegram Channel](https://t.me/F1NDLE_cn)
 
-[4PDA](https://4pda.to/forum/index.php?showuser=11974470)
+[4PDA](https://4pda.to/forum/index.php?showuser=11974470) & [REPUTATION](https://4pda.to/forum/index.php?act=rep&view=history&mid=11974470)
 
 
 
