@@ -6,11 +6,15 @@
 
 
 # Devices: 
-📱RN12S (rooted)
-📱Pixel 7 Pro(rooted ksu), 
-Infinix hot 30i (flashlify device), 
-🛡️Samsung Galaxy Note 7 (it's true)), 
-📱POCO X4 GT (Test device rooted with custom rom)
+📱[Redmi Note 12S, rooted](https://4pda.to/devdb/redmi_note_12s)
+
+📱[Pixel 7 Pro, rooted](https://4pda.to/devdb/google_pixel_7_pro),
+
+[INFINIX HOT 30I](https://4pda.to/devdb/infinix_hot_30i)
+
+[Samsung Galaxy Note 7, flashed](https://4pda.to/devdb/samsung_galaxy_note_7)
+
+📱[POCO X4 GT](https://4pda.to/devdb/poco_x4_gt)
 
 
 # Age
