@@ -16,6 +16,7 @@
 
 📱[POCO X4 GT](https://4pda.to/devdb/poco_x4_gt)
 
+[iPhone 13 base](https://4pda.to/devdb/apple_iphone_13)
 
 # Age
 14
