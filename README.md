@@ -24,12 +24,9 @@
 # I am interested in 
 Scripts, magisk(ksu modules), customs
 
-# GSI
-EVOLUTION X
-
 # GAME LIST
 Call Of Duty, Peacekeeper Elite(China), Brawl Stars, Arena Breakout, Delta Force, Valorant Mobile & pc version, cs2
 
-# 🐧Operation Systems - 
-phone (crdroid), pc - linux (arch & ubuntu) & sometimes windows
+# Operation Systems - 
+phone (crdroid), pc - linux (arch) & sometimes windows
 
